@@ -1,0 +1,28 @@
+name: flutter_secure_storage_example
+description: Demonstrates how to use the flutter_secure_storage plugin.
+
+version: 1.0.0+1
+
+publish_to: 'none'
+resolution: workspace
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+  flutter: '>=3.19.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  test: any
+  very_good_analysis: ^10.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,104 @@
+00:00 +0: loading C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart
+00:00 +0: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: API01 preserves Vietnamese, trims names, sends no credentials
+00:00 +1: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: API11 strips code and API02 uses token for exactly its family
+00:00 +2: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: unknown create result blocks repeated submission and never auto retries
+00:00 +3: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: successful create survives local save failure; local retry never POSTs
+00:00 +4: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: 401 removes only invalid token, preserves recent family and other sessions
+00:00 +5: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: expired local session requests rejoin without HTTP; wrong family code not stored
+00:00 +6: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: invalid family code is actionable; server response cannot leak into UI
+00:00 +7: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/api_controller_test.dart: remove from device does not send request or delete other families
+00:00 +8: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: create requires name, exact Family version and complete details, no relations
+00:00 +9: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: create 409 keeps input and blocks resubmission
+00:00 +10: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: create 503 keeps input and blocks resubmission
+00:00 +11: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: create timeout or wrong Family response is not automatically repeated
+00:00 +12: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: expired EDIT cannot create; input and baseline survive
+00:00 +13: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +14: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +15: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +16: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +17: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +18: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:00 +19: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +20: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +21: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +22: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +23: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +24: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +25: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +26: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +27: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +28: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +29: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +30: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +31: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +32: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +33: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +34: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +35: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +36: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +37: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +38: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +39: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +40: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +41: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:01 +42: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +43: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +44: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +45: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +46: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +47: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +48: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +49: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +50: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +51: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +52: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +53: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +54: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:02 +55: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +56: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +57: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +58: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +59: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +60: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +61: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +62: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +63: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +64: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +65: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:03 +66: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:04 +67: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:04 +68: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:05 +69: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/create_person_test.dart: MH09 add reuses MH13; cancel sends no write
+00:05 +70: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:05 +70: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/storage_test.dart: real localstore persists metadata, scopes servers, deletes only selected family
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+00:05 +71: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:05 +72: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:05 +72: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/storage_test.dart: localstore write failure reaches caller instead of premature success
+C:\Users\Admin\Documents\Codex\2026-09-23\voi\frontend
+00:05 +73: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:05 +74: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:06 +75: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:06 +76: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/graph_draft_widget_test.dart: EDIT add parents stays local across tabs, API05 requires resolving draft, commit once
+00:07 +77: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/people_widget_test.dart: MH09 from family tab, search/paging, MH10 and back preserve search
+00:07 +78: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/people_widget_test.dart: MH09 from family tab, search/paging, MH10 and back preserve search
+00:07 +79: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/people_widget_test.dart: MH09 from family tab, search/paging, MH10 and back preserve search
+00:07 +80: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:08 +81: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:08 +82: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:08 +83: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:09 +84: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:09 +85: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:09 +86: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/preview_test.dart: render twelve screens for visual review
+00:09 +87: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/widget_test.dart: create, keep codes masked, confirm, read family and reopen recent
+00:10 +88: C:/Users/Admin/Documents/Codex/2026-09-23/voi/frontend/test/widget_test.dart: empty join validation then join VIEW on narrow screen with larger text
+00:10 +89: All tests passed!

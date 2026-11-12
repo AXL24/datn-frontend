@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GiaPha - Flutter Web Debug" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+    <option name="additionalArgs" value="--web-hostname=localhost --web-port=5173 --dart-define=API_BASE_URL=http://localhost:8080" />
+    <method v="2" />
+  </configuration>
+</component>
